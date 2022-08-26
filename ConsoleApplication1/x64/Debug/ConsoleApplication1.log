@@ -1,0 +1,3 @@
+﻿  ACCheat.cpp
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(18,49): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'LPVOID' öğesine dönüştürme
+  ConsoleApplication1.vcxproj -> D:\C++\ACCheat\x64\Debug\ACCheat.exe
