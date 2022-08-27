@@ -1,3 +1,9 @@
 ﻿  ACCheat.cpp
-D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(18,49): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'LPVOID' öğesine dönüştürme
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(26,47): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'BYTE *' - 'DWORD'
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(26,47): warning C4302: 'tür dönüştürme': 'BYTE *' iken 'DWORD' olarak kesildi
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(48,51): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'LPCVOID' öğesine dönüştürme
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(52,54): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'LPCVOID' öğesine dönüştürme
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(91,44): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'LPVOID' öğesine dönüştürme
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(92,44): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'LPCVOID' öğesine dönüştürme
+D:\C++\ACCheat\ConsoleApplication1\ACCheat.cpp(67,6): warning C4101: 'mermisayisi': yerel değişken başvurusu kaldırıldı
   ConsoleApplication1.vcxproj -> D:\C++\ACCheat\x64\Debug\ACCheat.exe
